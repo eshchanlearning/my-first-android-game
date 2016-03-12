@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_242e3b84fc460d5f64e00e13b45120e22ff1d7b3.jar" />
+    </item>
+    <item
+        jar="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_f7deb1ee2cfbf5a8dc08b0f30c2a28d822e4572a.jar" />
+    </item>
+    <item
+        jar="/Users/ericchan/AndroidStudioProjects/Myfirstgamegit/my-first-android-game/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgamegit/my-first-android-game/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_5f9aa58f4a91bd2adfaeeeccb6c2cbc569cecaae.jar" />
+    </item>
+    <item
+        jar="/Users/ericchan/AndroidStudioProjects/Myfirstgamegit/my-first-android-game/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgamegit/my-first-android-game/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_06e93992d4a5c26c323a5c57531cec855ded6bd1.jar" />
+    </item>
+    <item
+        jar="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_dec129048451916c0d04bb16fd927553c5a85a9b.jar" />
+    </item>
+    <item
+        jar="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_e6edf571cdf9ff87e82cadea8702ee63d803d8e2.jar" />
+    </item>
+    <item
+        jar="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_71c886fea062446517d1bd8fb252055ac491b4dd.jar" />
+    </item>
+    <item
+        jar="/Users/ericchan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgame/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_af22a17816408ab4925bbb6cc6c2be5275bdecad.jar" />
+    </item>
+    <item
+        jar="/Users/ericchan/AndroidStudioProjects/Myfirstgamegit/my-first-android-game/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgamegit/my-first-android-game/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_15daa7a206df608c2e9f694e16e097d00d996efa.jar" />
+    </item>
+    <item
+        jar="/Users/ericchan/AndroidStudioProjects/Myfirstgamegit/my-first-android-game/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgamegit/my-first-android-game/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_d67e3811224df586062e199ccc3c970b7a697e5b.jar" />
+    </item>
+    <item
+        jar="/Users/ericchan/AndroidStudioProjects/Myfirstgamegit/my-first-android-game/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/ericchan/AndroidStudioProjects/Myfirstgamegit/my-first-android-game/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_438efb7fe67542c3e175fd808425c13dd11ce118.jar" />
+    </item>
+
+</items>
